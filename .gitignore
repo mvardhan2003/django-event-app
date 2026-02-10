@@ -1,22 +1,13 @@
-# Virtual Environment
+# Virtual environment
+env/
 venv/
 
-# Python cache files
+# Python cache
 __pycache__/
 *.pyc
 
-# Django database file
-db.sqlite3
-
-# Static files collected by collectstatic
-/static/
-
-# Media files
-/media/
-
-# Environment variables - good practice for the future
+# Environment variables
 .env
 
-# IDE files
-.idea/
-.vscode/
+# Database
+db.sqlite3

@@ -1,14 +1,10 @@
 \# Django Event Registration System
 
-
-
 \## Overview
 
 A web-based event management and registration system built using Django.
 
 Users can browse events, view details, and register securely.
-
-
 
 \## Features
 
@@ -24,8 +20,6 @@ Users can browse events, view details, and register securely.
 
 \- Admin panel for managing events and registrations
 
-
-
 \## Tech Stack
 
 \- Backend: Django (Python)
@@ -36,15 +30,11 @@ Users can browse events, view details, and register securely.
 
 \- Authentication: Django built-in auth
 
-
-
 \## Database Design
 
 \- Event
 
 \- Registration (User ↔ Event mapping with unique constraint)
-
-
 
 \## How to Run
 
@@ -57,16 +47,3 @@ Users can browse events, view details, and register securely.
 4\. Run migrations
 
 5\. Start server
-
-
-
-\## Future Enhancements
-
-\- REST APIs using Django REST Framework
-
-\- Pagination and search
-
-\- Email notifications
-
-
-
